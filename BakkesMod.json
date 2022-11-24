@@ -1,5 +1,5 @@
 {
   version: "1.0",
   url: "https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip"
-innosetup: "true"
+  innosetup: "true"
 }
