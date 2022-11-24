@@ -1,6 +1,6 @@
 {
   "version": "1.0",
   "url": "https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip",
-  "extract_dir": "cowsay-psh-master",
+  "extract_dir": "BakkesMod-Master",
   "innosetup": "true"
 }
