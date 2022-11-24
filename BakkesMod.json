@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "url": "https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip#/dl.7z",
+  "url": "https://github.com/bakkesmodorg/BakkesModInjectorCpp/releases/latest/download/BakkesModSetup.zip#/dl.7z"
   "installer": {
         "script": [
           "Start-Process -Wait -WindowStyle Hidden cmd \"/c call `\"$dir\\BakkesModSetup.exe`\" -s /quiet\" -Verb RunAs",
